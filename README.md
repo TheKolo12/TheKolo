@@ -13,3 +13,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="70" style="margin-right: 20px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="70"/>
 </p>
+
+
+
+
+
+Thanks to @InziDeveloperMode for the structure of the readme
