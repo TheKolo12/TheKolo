@@ -10,4 +10,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1030951880936935525)](https://discord.com/users/1030951880936935525)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C# Logo" width="100"/>
