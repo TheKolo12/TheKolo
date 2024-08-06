@@ -16,6 +16,3 @@
 
 
 
-
-
-Thanks to @InziDeveloperMode for the structure of the readme
