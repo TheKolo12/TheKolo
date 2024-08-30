@@ -2,7 +2,7 @@
 
 <h3 align="center">I mainly make plugins for SCPSL and Discord Bot :)</h3><br>
 
-- 🔭 I’m currently working on **Eclipse Bot**
+- 🔭 I’m currently working on **Scorpion Bot**
 
 - 🌱 I’m currently learning **Python** and **C#**
 
