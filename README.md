@@ -2,7 +2,6 @@
 
 <h3 align="center">I mainly working on Discord Bot :)</h3><br>
 
-- 🔭 I’m currently working on **Scorpion Bot**
 
 - 🌱 I’m currently learning **Python** and **C#**
 
