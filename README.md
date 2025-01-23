@@ -1,4 +1,4 @@
-## Hi, I'm Vacca 👋
+## Hi, I'm Kolo 👋
 
 <h3 align="center">I mainly working on Discord Bot :)</h3><br>
 
