@@ -3,7 +3,7 @@
 <h3 align="center">I mainly working on Discord Bot :)</h3><br>
 
 
-- 🌱 I’m currently learning **Python** and **C#**
+- 🌱 I’m currently learning **Python** , **C#** and **Java**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532)](https://discord.com/users/1270370648325099532)
 
