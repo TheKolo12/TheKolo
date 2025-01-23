@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python** and **C#**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1030951880936935525)](https://discord.com/users/1270370648325099532)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532)](https://discord.com/users/1270370648325099532)
 
 <h3 align="left">Languages:</h3>
 <p>
