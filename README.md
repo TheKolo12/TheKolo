@@ -15,6 +15,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKolo12&show_icons=true&theme=dark&locale=en&layout=compact" alt="josephfallen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheKolo12&show_icons=true&theme=dark&locale=en&layout=compact" alt="TheKolo12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheKolo12&show_icons=true&theme=dark&locale=en" alt="josephfallen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheKolo12&show_icons=true&theme=dark&locale=en" alt="TheKolo12" /></p>
