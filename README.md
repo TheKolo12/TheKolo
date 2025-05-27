@@ -11,7 +11,6 @@
 - 🧩 Passionate about modding and game server customization
 - 🚀 Always looking to improve and try something new
 
----
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
@@ -20,7 +19,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
@@ -28,7 +26,6 @@
   <!-- Aggiungi altri strumenti qui se vuoi -->
 </p>
 
----
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
