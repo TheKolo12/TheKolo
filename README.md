@@ -39,5 +39,5 @@
 <h3 align="center">📡 Discord Presence</h3>
 <p align="center">
   <a href="https://discord.com/users/1270370648325099532" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark&bg=00000080&animated=true&hideDiscrim=false&borderRadius=30px" alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark&bg=00000080&animated=true&hideDiscrim=false&borderRadius=1px" alt="Discord Status" />
   </a>
