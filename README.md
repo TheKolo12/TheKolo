@@ -42,7 +42,7 @@
     <img 
       src="https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark&bg=00000080&animated=true&hideDiscrim=false&borderRadius=10px" 
       alt="Discord Status"
-      width="700" 
+      width="300" 
     />
   </a>
 </p>
