@@ -41,6 +41,3 @@
   <a href="https://discord.com/users/1270370648325099532" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark&bg=00000080&animated=true&hideDiscrim=false&borderRadius=10px" alt="Discord Status" />
   </a>
-</p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark)](https://discord.com/users/1270370648325099532)
-</p>
