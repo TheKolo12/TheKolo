@@ -36,7 +36,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheKolo12&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
 
-<h3 align="center"> Status </h3>
-<p>
+<h3 align="center">📡 Discord Presence</h3>
+<p align="center">
+  <a href="https://discord.com/users/1270370648325099532" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark&bg=00000080&animated=true&hideDiscrim=false&borderRadius=10px" alt="Discord Status" />
+  </a>
+</p>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark)](https://discord.com/users/1270370648325099532)
 </p>
