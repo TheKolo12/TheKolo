@@ -35,3 +35,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheKolo12&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
+
+<h3 align="center"> Status </h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532)](https://discord.com/users/1270370648325099532)
