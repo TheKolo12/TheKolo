@@ -37,4 +37,6 @@
 </p>
 
 <h3 align="center"> Status </h3>
+<p>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1270370648325099532?theme=dark)](https://discord.com/users/1270370648325099532)
+</p>
