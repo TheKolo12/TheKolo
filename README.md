@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **C#** and the **EXILED Framework** for **SCP: Secret Laboratory**
+- 🌱 I’m currently learning **C#** and **JS**
 - 🧩 Passionate about modding and game server customization
 - 🚀 Always looking to improve and try something new
 
